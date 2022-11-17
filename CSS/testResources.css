@@ -1,0 +1,257 @@
+@font-face {
+   font-family: OldEnglish;
+   src: url('OldeEnglish.ttf');
+  }
+
+#body{
+  background-image: url('img/4.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mainContainerDiv { 
+
+  position:relative;  
+  background-color: rgb(160, 213, 230, 0.5);
+  top: 50px;
+  width: 1200px;
+  height: 1200px;
+  border: 1px solid blueviolet;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  margin: auto;
+  padding: auto
+}
+
+.headerContainerDiv{
+  background: none;  
+  width: 90%;
+  height: 10%;    
+  margin: auto; 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: stretch;
+}
+
+.headerDiv{
+  background-color: rgb(160, 213, 230);  
+  width: 100%;
+  
+  border: 1px solid blueviolet;
+  border-radius: 10px;  
+  margin: auto; 
+  padding: 20px;
+  font-family: OldEnglish; 
+  font-size: 60px;
+  color: blue;
+  font-weight: bolder;  
+  text-align: center;  
+  vertical-align: middle;  
+}
+
+.buttonDiv
+{
+  background-color: blue;
+  color: white;
+  width: 350px;
+ 
+  border: 1px solid white;
+  border-radius: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  font-weight: bold;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+  vertical-align: middle;
+  opacity: 1;
+}
+
+.buttonDiv:hover {
+
+  background-color: #3498DB ;
+  color: blue;
+  width: 330px;  
+  transition: transform 1s ease-in;
+}
+
+.bodyContainerDiv{
+  background-color: rgb(160, 213, 230);
+  border: 1px solid blueviolet;
+  border-radius: 10px;     
+  width: 90%;
+  height: 85%;    
+  margin: auto; 
+  display: flex;
+  flex-direction: column; 
+  align-content: stretch;
+  opacity: 0.9;
+}
+
+.trackBarDiv{
+  background: none;  
+  width: 90%;
+  height: 20px;    
+  margin: auto; 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: stretch;
+  opacity: 0;
+}
+
+#progressBar{
+  width: 100%;
+  background-color: grey;
+  border: 1px solid blueviolet;
+  border-radius: 10px;
+}
+
+#bar {
+  width: 1%;
+  height: 100%;
+  background-color: blue;
+  border: none;
+  border-radius: 10px;
+}
+
+.enumerateContainerDiv{
+  background: none;  
+  width: 90%;
+  height: 10%;    
+  margin: auto; 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  opacity: 0;
+}
+.resultDiv{
+  background: none;  
+  width: 30%;
+  height: 100%;     
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  color: grey;
+
+}
+
+.textDiv{
+  background: none;
+  opacity: 1;
+  width: 90%;
+  height: 15%;
+  border: none;
+  border-radius: 10px;  
+  margin: auto;
+  padding: 20px;
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  color: blue;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: stretch;
+  opacity: 0;
+}
+
+.question-image{
+  max-width: 150px;
+  max-height: 150px;
+  padding: 5px;
+}
+
+.answerContainerDiv{
+    
+  background: none;
+  width: 90%;
+  height: 30%;
+  border: none; 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  vertical-align: middle;
+  margin: auto;
+  padding: auto;
+  opacity: 0;
+}
+.answerDiv{
+  background-color: rgb(160, 213, 230);
+  opacity: 1;
+  width: 45%;
+  height: 45%;
+  border: 1px solid blueviolet;
+  border-radius: 10px;  
+  margin: auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  color: blue;
+
+}
+
+
+.footerDiv
+{
+  background-color: none;
+  opacity: 1;
+  width: 90%;
+  height: 10%;
+  border: none;
+  border-radius: 10px;  
+  margin: auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  color: blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  opacity: 0;
+}
+
+.taskStyle{
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
+  color:black;
+  font-style: italic;
+  font-weight: bold;
+
+}
+.questionStyle{
+  font-size: 30px;
+  font-family:'Times New Roman', Times, serif;
+  color:black;
+
+}
+
+.correctStyle{
+  font-size: 25px;
+  font-family:Arial, Helvetica, sans-serif;
+  color:black;
+
+}
+
+input[type=checkbox] {
+  transform: scale(1.5);
+}
+
+input[type=radio] {
+  transform: scale(1.5);
+}
+
+.selectorDiv{
+  background-color: rgb(160, 213, 230);
+  border: 1px solid blueviolet;
+  border-radius: 10px;     
+  width: 90%;
+  height: 1%;    
+  margin: auto; 
+  display: flex;
+  flex-direction: column; 
+  align-content: stretch;
+  opacity: 0;
+}

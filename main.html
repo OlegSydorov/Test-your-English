@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>English test</title>
+    <link rel="stylesheet" href="CSS/testResources.css">    
+    <script type="text/javascript" src="scripts/testScript.js"></script>
+    <script src="scripts/jquery-3.4.0.js"></script>
+</head>
+<body id="body" onload="OnLoadDocument()" >
+     <div id="main" class="mainContainerDiv">
+         
+        <div class="headerContainerDiv">
+
+            <div id="header" class="headerDiv">Your English test</div>
+
+            <!-- <div id="startButton" class="buttonDiv"></div> -->
+
+        </div>
+        <div id="bodyContainer" class="bodyContainerDiv">
+            <div class="trackBarDiv">
+
+                <div id="progressBar">
+    
+                    <div id="bar"></div>
+    
+                </div>
+    
+            </div>
+            
+            <div class="enumerateContainerDiv">
+    
+                <div id="enumerate" class="resultDiv"></div>
+    
+            </div>
+    
+             <div id="taskText" class="textDiv"></div>
+             <div id="questionText" class="textDiv"></div>
+    
+    
+             <div id="answerOptions" class="answerContainerDiv"></div>
+    
+             <input type="button" id="nextButton" class="buttonDiv" value="Select test file">
+    
+             
+             <div class="footerDiv">
+    
+                <div id="correct" class="resultDiv"></div>
+    
+            </div>
+
+            <div class="selectorDiv">
+              <input type="file" id="loader" name="fname" class="dataSelect" value="Select test file"  accept=".txt" >
+            </div>
+            
+        </div>
+
+       
+     </div>
+</body>
+</HTML>
