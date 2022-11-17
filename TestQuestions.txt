@@ -1,0 +1,63 @@
+Txt//Mult//There is too much weight on that table. It won't ___ for much longer.//restrain//refuse//resist//reject//resist
+Txt//Mult//The old house was ___ furnished and we had to buy almost everything new.//thinly//sparsely//mildly//rarely//sparsely
+Txt//Mult//The main way into the building is via High Street but there is also a(n) ___ at the back used for deliveries.//access//way//passage//direction//access
+Txt//Mult//I have been back to the doctor three times and he still hasn't ____ the reason for all the pain I have been suffering from recently.//indicated//highlighted//pinpointed//looked up//pinpointed
+Txt//Mult//You shouldn't have bought so many ___ presents on this holiday. You won't have any money left when you go back home.//rich//lavish//worthy//invaluable//lavish
+Txt//Mult//It's a long walk tomorrow. We need to ___ as early as possible.//set up//set in//set off//set about//set off
+Txt//Mult//Sometimes, we don't appreciate the ___ pleasures of life such as a beautiful sky, a cup of coffee with a friend or seeing a good film at the cinema.//sheer//simple//normal//plain//simple
+Txt//Mult//Even though she is 87, her mind is very ___ and she is very aware of everything going on around her.//alert//lively//demanding//lifelike//alert
+Txt//Mult//The captain decided to ___ ship even though he thought there was no real danger of it sinking.//abandon//evacuate//desert//evict//abandon
+Txt//Mult//If you continue to ___ debts at this rate, you will have to declare bankruptcy eventually.//save//raise//incur//default//incur
+Txt//Mult//The accidental ___ of four listed buildings near the city centre caused a huge outcry and the manager of the building company was jailed for three months.//disruption//demolition//injuring//squashing//demolition
+Txt//Mult//My company has just spent two million dollars, ___ a world famous artist to paint a huge mural for the main entrance foyer.//asking//ordering//consulting//commissioning//commissioning
+Txt//Mult//During the riots, hundreds of people broke into the city's main department store and ___ it. There was almost nothing left after the night had finished.//stole//looted//mugged//conned//looted
+Txt//Mult//This fruit has been in the fridge for over three weeks! It is all ___ .//rotten//sour//bitter//mouldy//mouldy
+Pic//Mult//The sign in picture reads: "___ road"//bumpy//uneven//humpy//potholed//uneven//unevenRoad.webp
+Pic//Mult//The sign in picture reads: "Give way to ___ "//incoming traffic//oncoming traffic//traffic ahead//forward traffic//oncoming traffic//oncomingTraffic.webp
+Pic//Mult//The sign in picture reads: "___ road"//unpaved//soft surface//loose//dangerous//loose//looseRoad.webp
+Txt//Mult//___ me another beer Des. Then I really must be going. It is quite late!//Spill//Trickle//Pour//Fill//Pour
+Txt//Mult//We were all in ___ of the fact that the new manager was our old friend Duncan.//surprise//shock//awe//amazement//shock
+Txt//Mult//My uncle Warren is a thoroughly despicable character. His one ___ feature is that he loves children.//saving//recovering//improved//redeeming//redeeming
+Txt//Mult//There was a veritable ___ of angry phone calls from members of the public complaining about the new controversial series on TV.//gale//flood//storm//earthquake//flood
+Txt//Mult//The sales practices of this company will have to be totally ___ if we are to save it.//overthrown//overhauled//overrun//overwhelmed//overhauled
+Txt//Mult//For lunch, I always have something quick and easy: a sandwich, a salad, toast and the ___.//same//similar//like//rest//like
+Txt//Mult//They had to buy a lot of equipment for the old boat, ___ a new anchor.//including//coupled with//joined to//partnered with//including
+Txt//Mult//The new teacher was taken advantage of by the students and often had to ___ her authority.//assert//confirm//inflict//strike//assert
+Txt//Mult//Since the law works so slowly, there is a considerable ___ of cases waiting for trial.//remainder//hangover//backlog//reserve//backlog
+Txt//Mult//Hardly ___ under the shower when the phone rang.//had he got//he has got//he got//he was getting//had he got
+Txt//Mult//They don’t work the same shift any longer, but they still meet ___ in the canteen.//in time//at the same time//from time to time//on time//from time to time
+Txt//Mult//The more he does for her, ___.//she seems dissatisfied//the more dissatisfied she seems//she’s seeming dissatisfied//she seems more dissatisfied//the more dissatisfied she seems
+Txt//Mult//By the time she realizes what’s going on, the little money they’ve managed to save over the years ___ on another woman.//will have spent//will have been spent//is spending//has been spent//will have been spent
+Txt//Mult//If his boss ___ him telling a competitor about their new products, he would still have a job.//had not caught//wouldn't have caught//didn't catch//wouldn't catch//had not caught
+Txt//Txt//1//You have been ___ with first degree murder. How do you plea?//charged
+Txt//Txt//1//I don't think anyone understood what I was saying at the meeting, did they? I totally failed to get my point ___.//across
+Txt//Txt//1//The great thing about this bank loan is that they give you so long to pay if ___.//off
+Txt//Txt//1//The icy road conditions ___ in over twenty minor accidents this morning, but fortunately no-one was seriously injured.//resulted
+Txt//Txt//1//I went to see the boss about a pay rise and he brushed me ___ with a weak excuse about a business dinner and left me standing there!//off
+Txt//Txt//1//However much work he takes on, he always has difficulty in ___ ends meet.//making
+Txt//Txt//1//The article you want is out of ___ . It should take about twenty working days to arrive. Shall I order it for you?//stock
+Txt//Txt//1//He is well ___ of the problems involved in setting up a business.//aware
+Txt//Txt//3//___ my colleagues, I would like to thank you for everything you have done for us.//On behalf of
+Txt//Txt//2//It’s a formal wedding, so my husband and I will have to ___.//dress up
+Txt//Txt//2//She ___ a rage when she saw the mess they’d made.//flew into
+Txt//Txt//2//She never comes here now. We only see her once in a ___ moon.//blue
+Txt//Txt//1//Don’t you like it? I was under the ___ you liked Indian food.//impression
+Txt//Txt//1//You’re living in a world of make-believe! You’ll have to ___ up to facts sooner or later.//face
+Pic//Txt//1//The sign in picture reads: "No ___"//U-turn//noUturn.webp
+Pic//Txt//1//The US equivalent of the following UK sign will read: ___ //subway//underground.webp
+Txt//Opt//2//He’d hate to work in an office. He’d prefer a job that allowed him to spend most of his time ___.//in air//off limits//in the open//in the open air//out of doors//in the street//in the open air//out of doors
+Txt//Opt//2//___ for her support and help, he would have given up years ago.//Without//Unless it was//Had it not been//If she hadn't been//If it were//But//Had it not been//But
+Txt//Opt//3//You had nothing better to do. You ___ a hand with moving the furniture!//would have given//could have given//had to give//should give//should have given//might have given//could have given//should have given//might have given
+Txt//Opt//2//John’s doctor says he is ___ a nervous breakdown.//on the point of//closed to//on edge//nearby//on the verge of//almost in//on the point of//on the verge of
+Txt//Opt//2//One little mistake shouldn’t ___ again.//discourage your from trying//stop you to try//put you off trying//prevent you to try//get you off//scare you to try//discourage you from trying//put you off trying
+Txt//Opt//3//She seems a lively, fun-loving person, but it would be a great mistake to ___ her intelligence.//overrate//underrate//despise//depreciate//underprice//underestimate//underrate//underestimate
+Txt//Opt//2//Your name ___ up in the course of our conversation.//brought//came//got//took//was brought//surfaced//came//was brought
+Pic//Opt//2//The sign in the picture reads: "___ prohibited".//sound//honk//honking//beeping//loud noise//signalling//honk//honking//noHonk.webp
+Pic//Opt//2//The sign in the picture reads: "___".//yield//make way//give way//allow other traffic first//stop//attention//yield//give way//yield.webp
+Pic//Opt//2//The sign in the picture reads: "Left ___".//bend//turn//lane//turning//curve//corner//bend//curve//leftCurve.webp
+Txt//Opt//2//You can ___ your right to cancel the contract immediately, but you wouldn't receive any money at that point.//use//have//utilize//exercise//make use//grant//use//exercise
+Txt//Opt//3//Can you give me a rough ___ of what the job might cost me?//assessment//evaluation//calculating//value//estimate//esteem//assessment//evaluation//estimate
+Txt//Opt//3//The government announced today that they intend to ___ the rise of crime in the inner cities by increasing police budgets in the areas most affected.//overcome//stop//beat//win//retaliate//counter//overcome//stop//counter
+Txt//Opt//2//The news of the robbery soon ___.//broke out//came over//spread out//got round//spread//opened//got round//spread
+Txt//Opt//2//They treated you very badly. Aren’t you tempted to ___ in some way?//take a revenge//win them again//go round the bend//get your own back//give them back//go back//take a revenge//get your own back
+Txt//Opt//3//She wasn’t helped. She did it ___.//off-hand//with slight of hand//single-handed//with one hand//independently//herself//single-handed//independently//herself
